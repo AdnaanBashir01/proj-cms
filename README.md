@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Storyline CMS
 
 A responsive editorial content management frontend built with React, JavaScript, and modern CSS. It includes a small persistent Node REST API for a complete local CRUD workflow.
@@ -82,3 +83,7 @@ npm run preview   # preview the frontend build
 ```
 
 For a deployed environment, configure the web server to forward `/api` requests to the Node service.
+=======
+# proj-cms
+This project focuses on the frontend implementation of a CMS, providing an intuitive administrative interface for interacting with content through backend APIs. It demonstrates modern React development practices, component reusability, responsive UI design, API integration, and dynamic state handling.
+>>>>>>> 1f1d0fd42900fb03e79f107175726bc8c730b713
