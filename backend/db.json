@@ -1,0 +1,228 @@
+{
+  "articles": [
+    {
+      "id": "art-1001",
+      "title": "The quiet return of slow design",
+      "body": "For years, speed was treated as the only meaningful measure of creative progress. Teams shipped faster, shortened feedback loops, and filled every spare moment with another iteration. But a different practice is taking root.\n\nSlow design does not mean working without urgency. It means making room for observation before execution, and asking whether an object, service, or story deserves to exist before optimizing how quickly it can be made.\n\nThe best examples are not nostalgic. They pair modern tools with a more deliberate rhythm—one that values material honesty, careful language, and the useful friction of a thoughtful review.",
+      "author": "Maya Chen",
+      "category": "Design",
+      "tags": [
+        "design",
+        "craft",
+        "culture"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-1.svg",
+      "createdAt": "2026-08-12T09:15:00.000Z",
+      "updatedAt": "2026-08-16T04:45:00.000Z"
+    },
+    {
+      "id": "art-1002",
+      "title": "Building a kinder internet, one room at a time",
+      "body": "The most interesting online communities rarely begin with scale. They begin with a small group of people, a clear reason to gather, and a host who pays attention.\n\nHealthy digital rooms are designed like good physical ones. They have visible entrances, shared expectations, and enough texture for people to feel at ease. Most importantly, someone notices when the atmosphere changes.\n\nThe next era of social products may be defined less by reach and more by stewardship. Smaller spaces can still hold expansive ideas.",
+      "author": "Jon Bell",
+      "category": "Technology",
+      "tags": [
+        "community",
+        "internet",
+        "product"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-2.svg",
+      "createdAt": "2026-08-10T11:30:00.000Z",
+      "updatedAt": "2026-08-15T10:20:00.000Z"
+    },
+    {
+      "id": "art-1003",
+      "title": "A field guide to creative momentum",
+      "body": "Creative momentum is less like a lightning strike and more like tending a small fire. It needs fuel, air, and regular attention. Waiting for perfect inspiration usually means waiting too long.\n\nStart by reducing the size of the next action. Open the document. Name the layer. Write the first unremarkable sentence. Small completions create evidence that the work can move.\n\nMomentum also needs recovery. A walk, a conversation, or an afternoon away from the screen is not time stolen from the process. It is part of the process.",
+      "author": "Avery Brooks",
+      "category": "Ideas",
+      "tags": [
+        "creativity",
+        "practice",
+        "work"
+      ],
+      "status": "draft",
+      "featuredImage": "/images/editorial-3.svg",
+      "createdAt": "2026-08-15T06:40:00.000Z",
+      "updatedAt": "2026-08-15T08:15:00.000Z"
+    },
+    {
+      "id": "art-1004",
+      "title": "Why independent magazines still matter",
+      "body": "A magazine is a temporary world with edges. Its sequence is chosen, its paper has weight, and its finish invites a particular kind of attention. Independent publishers understand that constraint can be a source of identity.\n\nAt a time when every feed rearranges itself around the reader, a fixed editorial point of view feels unusually generous. It says: we considered the order; you can simply enter.\n\nPrint is not a rejection of digital culture. At its best, it is a companion to it—a slower room for ideas that benefit from staying put.",
+      "author": "Maya Chen",
+      "category": "Culture",
+      "tags": [
+        "publishing",
+        "print",
+        "editorial"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-4.svg",
+      "createdAt": "2026-08-01T12:00:00.000Z",
+      "updatedAt": "2026-08-14T07:30:00.000Z"
+    },
+    {
+      "id": "art-1005",
+      "title": "Notes from the edge of the city",
+      "body": "At the edge of every city, the map becomes less certain. Warehouses give way to allotments, footpaths ignore property lines, and the horizon starts to feel possible again.\n\nThese in-between places rarely make the postcard, yet they reveal how a city is changing. A new bus stop, an old workshop, a field waiting behind temporary fencing—each is a sentence in an unfinished story.\n\nWalking here teaches a patient way of looking. The ordinary turns out to be full of evidence.",
+      "author": "Nadia Khan",
+      "category": "Travel",
+      "tags": [
+        "cities",
+        "walking",
+        "place"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-3.svg",
+      "createdAt": "2026-07-28T05:45:00.000Z",
+      "updatedAt": "2026-08-13T15:05:00.000Z"
+    },
+    {
+      "id": "art-1006",
+      "title": "The objects we choose to keep",
+      "body": "Most of what we own is replaceable. The things we keep are different. They carry a nick, a repair, or an association that cannot be ordered again.\n\nDesigners often speak about durability as a property of materials, but emotional durability matters too. An object lasts when its meaning can change with us.\n\nPerhaps the most sustainable product is not merely difficult to break. It is something we continue choosing, even when a newer version appears.",
+      "author": "Elena Rossi",
+      "category": "Design",
+      "tags": [
+        "objects",
+        "sustainability",
+        "home"
+      ],
+      "status": "draft",
+      "featuredImage": "/images/editorial-1.svg",
+      "createdAt": "2026-08-11T14:10:00.000Z",
+      "updatedAt": "2026-08-12T09:00:00.000Z"
+    },
+    {
+      "id": "art-1007",
+      "title": "Small signals, better products",
+      "body": "The difference between a product that feels clear and one that feels confusing often lives in small signals: a label that anticipates a question, a button that changes at the right moment, a quiet confirmation after an action.\n\nThese details are easy to dismiss in a roadmap because none is a headline feature. Together, however, they form trust.\n\nGreat product teams keep a list of tiny frictions. They revisit it often and understand that polish is not decoration—it is accumulated care.",
+      "author": "Sam Rivera",
+      "category": "Technology",
+      "tags": [
+        "ux",
+        "products",
+        "details"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-2.svg",
+      "createdAt": "2026-07-22T10:25:00.000Z",
+      "updatedAt": "2026-08-09T11:45:00.000Z"
+    },
+    {
+      "id": "art-1008",
+      "title": "Learning to notice what changes",
+      "body": "Attention improves with a simple practice: return to the same place. A single visit gives you an image; repeated visits reveal a system.\n\nThe light shifts. A shop closes. Someone plants herbs in a window box. The dramatic events are rare, but a thousand modest adjustments are always underway.\n\nKeeping notes makes these changes visible. Over time, the record becomes more than a diary. It becomes a way to understand how places—and people—become themselves.",
+      "author": "Avery Brooks",
+      "category": "Ideas",
+      "tags": [
+        "attention",
+        "journaling",
+        "change"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-4.svg",
+      "createdAt": "2026-07-16T08:30:00.000Z",
+      "updatedAt": "2026-08-08T16:10:00.000Z"
+    },
+    {
+      "id": "art-1009",
+      "title": "The new neighborhood workshop",
+      "body": "A new generation of neighborhood workshops is mixing old tools with shared ownership. These are places to mend a chair, borrow a drill, or ask someone why a hinge keeps slipping.\n\nTheir value is not only practical. A workshop creates a reason for different kinds of people to spend time in the same room. Knowledge moves sideways, through demonstration and conversation.\n\nIn an economy organized around convenience, making and repairing together can feel quietly radical.",
+      "author": "Jon Bell",
+      "category": "Culture",
+      "tags": [
+        "community",
+        "craft",
+        "repair"
+      ],
+      "status": "draft",
+      "featuredImage": "/images/editorial-1.svg",
+      "createdAt": "2026-08-07T13:20:00.000Z",
+      "updatedAt": "2026-08-07T13:20:00.000Z"
+    },
+    {
+      "id": "art-1010",
+      "title": "A slower train through the north",
+      "body": "The slower route follows the river before climbing into a wide, bare landscape. Stations arrive as small interruptions: a platform, a painted bench, a village roofline.\n\nTravel at this pace restores the distance between places. You watch weather cross a valley and notice how the building stone changes from one town to the next.\n\nBy the time the train reaches the coast, the journey has acquired a shape of its own. Arrival is no longer the only event.",
+      "author": "Nadia Khan",
+      "category": "Travel",
+      "tags": [
+        "rail",
+        "slow travel",
+        "landscape"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-3.svg",
+      "createdAt": "2026-07-08T05:00:00.000Z",
+      "updatedAt": "2026-08-05T09:35:00.000Z"
+    },
+    {
+      "id": "art-1011",
+      "title": "How to host a useful critique",
+      "body": "A useful critique begins before anyone enters the room. The team needs to know what is being decided, what remains open, and which constraints cannot move.\n\nAsk the maker to frame the work rather than defend it. Invite observations before prescriptions. Specific language—what someone noticed, expected, or misunderstood—creates more room than a quick verdict.\n\nThe goal is not consensus. It is a clearer view of the work and enough shared confidence to take the next step.",
+      "author": "Elena Rossi",
+      "category": "Design",
+      "tags": [
+        "teams",
+        "feedback",
+        "process"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-2.svg",
+      "createdAt": "2026-06-24T14:00:00.000Z",
+      "updatedAt": "2026-08-03T08:15:00.000Z"
+    },
+    {
+      "id": "art-1012",
+      "title": "The practical poetry of good documentation",
+      "body": "Documentation is where a team explains itself to the future. The best examples are direct, humane, and aware that the reader may already be frustrated.\n\nGood documentation does not display everything the writer knows. It creates a path through uncertainty. A clear heading, a complete example, and one honest warning can save hours.\n\nWriting docs is product work. It deserves the same research, editing, and care as the interface it describes.",
+      "author": "Sam Rivera",
+      "category": "Technology",
+      "tags": [
+        "writing",
+        "documentation",
+        "software"
+      ],
+      "status": "draft",
+      "featuredImage": "/images/editorial-4.svg",
+      "createdAt": "2026-07-31T10:00:00.000Z",
+      "updatedAt": "2026-08-02T12:40:00.000Z"
+    },
+    {
+      "id": "art-1013",
+      "title": "When the archive becomes a garden",
+      "body": "Archives are often imagined as sealed rooms, but living collections behave more like gardens. They require selection, context, and regular return.\n\nA good digital archive makes relationships visible. It allows a reader to follow an idea across years, formats, and different voices without flattening those differences.\n\nPreservation is not only about keeping files intact. It is about keeping meaning available.",
+      "author": "Maya Chen",
+      "category": "Culture",
+      "tags": [
+        "archives",
+        "memory",
+        "digital"
+      ],
+      "status": "published",
+      "featuredImage": "/images/editorial-1.svg",
+      "createdAt": "2026-06-18T09:20:00.000Z",
+      "updatedAt": "2026-07-29T06:55:00.000Z"
+    },
+    {
+      "id": "art-1014",
+      "title": "Five questions before the first sketch",
+      "body": "Before the first sketch, pause. Who is this for? What are they trying to do? What will make the experience feel trustworthy? Which constraint is real, and which is inherited? What would success look like in ordinary use?\n\nQuestions do not delay design. They focus it. A few careful minutes at the beginning can prevent weeks of polishing the wrong answer.\n\nKeep the questions visible as the work develops. The sketch will change; the purpose should become clearer.",
+      "author": "Elena Rossi",
+      "category": "Design",
+      "tags": [
+        "questions",
+        "strategy",
+        "practice"
+      ],
+      "status": "draft",
+      "featuredImage": "/images/editorial-2.svg",
+      "createdAt": "2026-07-25T11:10:00.000Z",
+      "updatedAt": "2026-07-26T10:00:00.000Z"
+    }
+  ]
+}
